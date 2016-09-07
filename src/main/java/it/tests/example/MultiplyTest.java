@@ -9,7 +9,7 @@ public class MultiplyTest {
 	@Test
 	public void testMultiply() {
 		Junit test = new Junit();
-		int result = test.multiply(4, 2);
+		int result = test.multiply(5, 2);
 		assertEquals(8, result);
 	}
 
