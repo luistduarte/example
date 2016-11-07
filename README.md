@@ -1,4 +1,4 @@
-# test-TravisCI
+# test-TravisCI [![Build Status](https://travis-ci.org/luistduarte/testing-travis-integration.svg?branch=master)](https://travis-ci.org/luistduarte/testing-travis-integration)
 # testing-travis-integration
 
 
